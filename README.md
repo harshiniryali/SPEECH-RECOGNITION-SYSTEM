@@ -43,8 +43,11 @@ python recognize.py --audio "sample.wav"
 ##How it works?
 
 **Preprocessing** :Cleans and normalizes audio input.
+
 **Feature Extraction** :Uses MFCC's, Mel Spectrograms, or Wave2Vec embeddings.
+
 **Speech Model Processing** :Transcribes speech using deep learning models like Whisper, DeepSpeech, or Wave2Vec.
+
 **Post-processing** :Enhances readability by formatting text output.
 
 ##Contributing
