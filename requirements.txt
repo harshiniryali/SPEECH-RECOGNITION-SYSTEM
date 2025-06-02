@@ -1,0 +1,35 @@
+# Core Speech Processing Libraries
+speechrecognition>=3.8.1
+pydub>=0.25.1
+librosa>=0.9.2
+
+# Deep Learning Frameworks (Choose one or both)
+torch>=1.7.0
+tensorflow>=2.5.0
+
+# Pre-trained Speech Models
+transformers>=4.0.0
+deepspeech==0.9.3
+
+# Audio Preprocessing
+numpy>=1.19.5
+scipy>=1.7.3
+matplotlib>=3.4.3 
+torchaudio>=0.10.0 
+
+# Speech Enhancement & Noise Reduction
+noisereduce>=2.0.1
+webrtcvad>=2.0.10  
+
+# File Format Handling
+ffmpeg-python>=0.2.0
+wave>=0.0.2    
+
+# API & Deployment Options
+flask>=2.0.1      
+gradio>=3.0.0 
+
+# Additional Utilities
+tqdm>=4.62.3            
+python-dotenv>=0.19.0   
+requests>=2.25.1 
