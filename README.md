@@ -17,9 +17,13 @@
 ##Features
 
 **Real-time speech-to-text** :Converst spoken words into text efficiently.
+
 **Noise reduction & filtering** :Ensures clarity even in noisy environments.
+
 **Customizable model** :Fine-tune or extend functionalities with additional training.
+
 **Integration with API's** :Comaptible with google speech-to-text, whisper, and deepspeech models.
+
 **Speaker Identification** :Detects different speakers in audio conversations.
 
 ##Installation
